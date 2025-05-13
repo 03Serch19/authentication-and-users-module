@@ -1,4 +1,4 @@
-# authentication-and-users-module
+# Authentication-and-users-module
 
 
 Modulo encargado de la autenticacion y registro de los usuarios
